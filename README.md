@@ -26,7 +26,7 @@
 
 ## 快速开始
 
-要求 Node.js 18+，推荐 20+。
+要求 Node.js 22.13+（pnpm 11 的运行要求；本地也可使用更新的 Node 版本）。
 
 ```bash
 cd personal-tools
