@@ -4,9 +4,13 @@
 
 ## 在线预览
 
-**https://vibe-tools-x48dwxp9-qnu1lssdcq.brewpage.app/**
+**GitHub Pages（长期）：** https://2006chunqiu.github.io/vibe-tools/
 
-免费预览有效期至 **2026-11-24**，页面带 BrewPage 平台小徽标。长期部署请按下方 Vercel / 静态托管步骤操作。
+**GitHub 仓库：** https://github.com/2006chunqiu/vibe-tools
+
+**BrewPage 备用预览：** https://vibe-tools-x48dwxp9-qnu1lssdcq.brewpage.app/（有效期至 2026-11-24，页面带平台小徽标）
+
+GitHub 仓库已配置 GitHub Actions，推送到 `main` 会自动构建并更新 Pages。
 
 ## 五个示例的完成情况
 
