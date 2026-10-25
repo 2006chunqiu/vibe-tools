@@ -1,0 +1,14 @@
+node_modules/
+dist/
+release/
+.tmp/
+.cache/
+.pnpm-home/
+.pnpm-store/
+qa/
+.vercel/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini
